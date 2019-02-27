@@ -19,7 +19,7 @@ To build an open-source python package that will extract steps in a jupyter note
 
 - - Extracts from existing Markdown syntax
   - Templates allow you to choose seaborn colors etc
-  - Don’t 
+  - Don't have to make a chart in Powerpoint and then paste the image in your notebook 
 
 - Very communication-friendly
 
